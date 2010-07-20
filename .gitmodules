@@ -1,6 +1,6 @@
 [submodule "iphone"]
 	path = iphone
-	url = git://github.com/uxebu/phonegap-iphone.git
+	url = git@github.com:uxebu/phonegap-iphone.git
 [submodule "winmo"]
 	path = winmo
 	url = git://github.com/phonegap/phonegap-winmo.git
